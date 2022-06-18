@@ -37,6 +37,10 @@ Software for satellites
 
 [NANO-SAT-01](https://github.com/louis-e/NANO-SAT-01) - A satellite model based on an Arduino
 
+[Oresat](https://github.com/oresat) - Oregon Small Satellite Project
+
+[Pycubed](https://github.com/pycubed) - CubeSat Framework Programmable Entirely in Python
+
 [pi-cansat](https://github.com/accurrently/pi-cansat) - Resources for a Raspberry Pi can satellite
 
 [cansat_arduino](https://github.com/Harishmmhari/cansat_arduino) - A small satellite (cansat) built using arduino
@@ -72,6 +76,8 @@ Software for satellites
 [Satmad](https://github.com/egemenimre) - Satellite Mission Analysis and Design
 
 [space physics](https://github.com/space-physics) - various software
+
+[Open Space Toolkit](https://github.com/open-space-collective/open-space-toolkit) - Collection of versatile software libraries for space engineering applications (e.g., environment modeling, orbit and access computation)
 
 [Stabilistion](https://github.com/Walid-khaled/Stabilization-of-Artificial-Satellite) - Stabilization of Artificial Satellite
 
