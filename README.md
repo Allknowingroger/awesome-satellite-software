@@ -15,9 +15,27 @@ Software for satellites
 
 [Armsat](https://github.com/solderneer/ARMsat) - A nano satellite platform
 
-[nano flight softwae](https://github.com/TJREVERB/pfs) - a nanosat
+
 
 [Dshield](https://github.com/dshield-proj) - software
+
+#satellites
+
+[Arduino-Satellite](https://github.com/MKme/Arduino-Satellite) - DIY Satellite project (Cubesat)
+
+[nano flight softwae](https://github.com/TJREVERB/pfs) - a nanosat
+
+[NANO-SAT-01](https://github.com/louis-e/NANO-SAT-01) - A satellite model based on an Arduino
+
+[pi-cansat](https://github.com/accurrently/pi-cansat) - Resources for a Raspberry Pi can satellite
+
+[cansat_arduino](https://github.com/Harishmmhari/cansat_arduino) - A small satellite (cansat) built using arduino
+
+[WatSat](https://github.com/ManrajT/WatSat) - Code for the Waterloo Satellite Team
+
+[RedditSat](https://github.com/gitter-badger/RedditSat) - An open-source pocketqube arduino powered satellite being developed by various users.
+
+
 
 ##Other
 
