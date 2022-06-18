@@ -3,6 +3,8 @@ Software for satellites
 
 ##Software
 
+[Core Flight System](https://github.com/nasa/cfs) - NASA portable and extendable flight software framework with extensive flight heritage and a growing suite of applications and platform ports
+
 [KubeOS](https://github.com/Cube-OS/cubeOS) - cubesat operating system
 
 [Perihelion OS](https://github.com/Immortalin/Perihelion_OS) - Satellite operating system
@@ -17,11 +19,17 @@ Software for satellites
 
 [Armsat](https://github.com/solderneer/ARMsat) - A nano satellite platform
 
-
+[OpenSatKit](https://github.com/OpenSatKit/OpenSatKit) -  A complete Core Flight System training and application development environment that includes COSMOS and 42
 
 [Dshield](https://github.com/dshield-proj) - software
 
+[fprime](https://github.com/nasa/fprime) -  F Prime (FÊ¹) is a component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications, originally developed at the Jet Propulsion Laboratory.
+
 #Satellites
+
+[FossaSat-1](https://github.com/Bambofy/FossaSat-1) -Hardware designs and software for the FossaSat-1 Pocketqube satellite
+
+[librecube](https://librecube.org/) - Open source space and Earth exploration. Defining a generic architecture of system of systems that have standardized interfaces makes it possible to combine and reuse elements for various applications
 
 [Arduino-Satellite](https://github.com/MKme/Arduino-Satellite) - DIY Satellite project (Cubesat)
 
@@ -40,6 +48,8 @@ Software for satellites
 [Satellogic/canopus](https://github.com/satellogic/canopus) - flight computer software for CubeBug cubesat
 
 [UWCubeSat](https://github.com/UWCubeSat) - cubesat parts list and software
+
+[upsat](https://upsat.gr/) - Open source satellite software and hardware
 
 ##Other
 
