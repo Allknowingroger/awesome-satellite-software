@@ -1,4 +1,4 @@
-# awesome-satellite-software
+# awesome-satellite-software [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Software for satellites
 
 ##Software
@@ -21,7 +21,7 @@ Software for satellites
 
 [Dshield](https://github.com/dshield-proj) - software
 
-#satellites
+#Satellites
 
 [Arduino-Satellite](https://github.com/MKme/Arduino-Satellite) - DIY Satellite project (Cubesat)
 
