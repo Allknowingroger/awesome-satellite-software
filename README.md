@@ -3,6 +3,8 @@ Software for satellites
 
 ##Software
 
+[CubeOS](https://github.com/Cube-OS/cubeOS) - cubesat operating system
+
 [Perihelion OS](https://github.com/Immortalin/Perihelion_OS) - Satellite operating system
 
 [Cubism](https://github.com/Cubium/Cubium) - Minimalist software system for CubeSats 
@@ -36,6 +38,8 @@ Software for satellites
 [RedditSat](https://github.com/gitter-badger/RedditSat) - An open-source pocketqube arduino powered satellite being developed by various users.
 
 [Satellogic/canopus](https://github.com/satellogic/canopus) - flight computer software for CubeBug cubesat
+
+[UWCubeSat](https://github.com/UWCubeSat) - cubesat parts list and software
 
 ##Other
 
