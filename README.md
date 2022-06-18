@@ -7,7 +7,7 @@ Software for satellites
 
 [Cubism](https://github.com/Cubium/Cubium) - Minimalist software system for CubeSats 
 
-[SatelliteApplicationsCatapult](https://github.com/orgs/SatelliteApplicationsCatapult) - sofware 
+[SatelliteApplicationsCatapult](https://github.com/orgs/SatelliteApplicationsCatapult) - software 
 
 [nanosat-mo-framework](https://github.com/esa/nanosat-mo-framework) - A software framework for small satellites based on CCSDS MO services
 
@@ -32,6 +32,8 @@ Software for satellites
 [fleet space](https://github.com/fleetspace) - control room sofware
 
 [kaan Sat](https://github.com/Kaan-Sat) - simulation sofware
+
+[openmctweb](https://github.com/nasa/openmctweb) - mission control software
 
 [Satmad](https://github.com/egemenimre) - Satellite Mission Analysis and Design
 
