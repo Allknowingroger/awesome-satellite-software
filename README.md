@@ -82,3 +82,5 @@ Software for satellites
 [Stabilistion](https://github.com/Walid-khaled/Stabilization-of-Artificial-Satellite) - Stabilization of Artificial Satellite
 
 [Scheduler](https://github.com/andreanardin/OGNSS_scheduler) - timing of processes
+
+[MORE](https://github.com/orbitalindex/awesome-space)
