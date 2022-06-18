@@ -3,13 +3,13 @@ Software for satellites
 
 ##Software
 
-[CubeOS](https://github.com/Cube-OS/cubeOS) - cubesat operating system
+[KubeOS](https://github.com/Cube-OS/cubeOS) - cubesat operating system
 
 [Perihelion OS](https://github.com/Immortalin/Perihelion_OS) - Satellite operating system
 
 [Cubism](https://github.com/Cubium/Cubium) - Minimalist software system for CubeSats 
 
-[SatelliteApplicationsCatapult](https://github.com/orgs/SatelliteApplicationsCatapult) - software 
+
 
 [nanosat-mo-framework](https://github.com/esa/nanosat-mo-framework) - A software framework for small satellites based on CCSDS MO services
 
@@ -44,6 +44,8 @@ Software for satellites
 ##Other
 
 [MeshNetwork](https://github.com/nasa/meshNetwork) - data network 
+
+[SatelliteApplicationsCatapult](https://github.com/orgs/SatelliteApplicationsCatapult) - software 
 
 [SatelliteSimulators](https://github.com/SatelliteSimulators) - simulation software
 
