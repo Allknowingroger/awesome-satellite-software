@@ -19,6 +19,12 @@ Software for satellites
 
 [Dshield](https://github.com/dshield-proj) - software
 
+##Other
+
+[MeshNetwork](https://github.com/nasa/meshNetwork) - data network 
+
+[SatelliteSimulators](https://github.com/SatelliteSimulators) - simulation software
+
 [Spacelab](https://github.com/spacelab-ufsc) - brazil institute
 
 [Satsim](https://github.com/tlrobinson/satsim) -simulation sofware
@@ -29,6 +35,8 @@ Software for satellites
 
 [Satmad](https://github.com/egemenimre) - Satellite Mission Analysis and Design
 
-[space physics](https://github.com/space-physics) - various software l
+[space physics](https://github.com/space-physics) - various software
 
-[Satilastion](https://github.com/Walid-khaled/Stabilization-of-Artificial-Satellite) - 
+[Stabilistion](https://github.com/Walid-khaled/Stabilization-of-Artificial-Satellite) - Stabilization of Artificial Satellite
+
+[Scheduler](https://github.com/andreanardin/OGNSS_scheduler) - timing of processes
