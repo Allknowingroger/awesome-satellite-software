@@ -35,7 +35,7 @@ Software for satellites
 
 [RedditSat](https://github.com/gitter-badger/RedditSat) - An open-source pocketqube arduino powered satellite being developed by various users.
 
-
+[Satellogic/canopus](https://github.com/satellogic/canopus) - flight computer software for CubeBug cubesat
 
 ##Other
 
