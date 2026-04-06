@@ -1,7 +1,7 @@
 # awesome-satellite-software [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Software for satellites
 
-##Software
+## Software
 
 [Core Flight System](https://github.com/nasa/cfs) - NASA portable and extendable flight software framework with extensive flight heritage and a growing suite of applications and platform ports
 
@@ -9,31 +9,37 @@ Software for satellites
 
 [Perihelion OS](https://github.com/Immortalin/Perihelion_OS) - Satellite operating system
 
-[Cubism](https://github.com/Cubium/Cubium) - Minimalist software system for CubeSats 
-
-
+[Cubism](https://github.com/Cubium/Cubium) - Minimalist software system for CubeSats
 
 [nanosat-mo-framework](https://github.com/esa/nanosat-mo-framework) - A software framework for small satellites based on CCSDS MO services
 
-[Open sorce satellite](https://github.com/opensatelliteproject) - cubesat sofware
+[Open Source Satellite](https://github.com/opensatelliteproject) - Cubesat software
 
 [Armsat](https://github.com/solderneer/ARMsat) - A nano satellite platform
 
-[OpenSatKit](https://github.com/OpenSatKit/OpenSatKit) -  A complete Core Flight System training and application development environment that includes COSMOS and 42
+[OpenSatKit](https://github.com/OpenSatKit/OpenSatKit) - A complete Core Flight System training and application development environment that includes COSMOS and 42
 
-[Dshield](https://github.com/dshield-proj) - software
+[Dshield](https://github.com/dshield-proj) - Distributed denial-of-service protection software
 
-[fprime](https://github.com/nasa/fprime) -  F Prime (FÊ¹) is a component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications, originally developed at the Jet Propulsion Laboratory.
+[fprime](https://github.com/nasa/fprime) - F Prime (F') is a component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications
 
-#Satellites
+[phisat2-trustworthy-onboard-ai](https://github.com/Abdelrahmanhatem2020/phisat2-trustworthy-onboard-ai) - Trustworthy onboard AI framework for satellites
 
-[FossaSat-1](https://github.com/Bambofy/FossaSat-1) -Hardware designs and software for the FossaSat-1 Pocketqube satellite
+[cubesat-sim](https://github.com/miksrv/cubesat-sim) - CubeSat simulator software
 
-[librecube](https://librecube.org/) - Open source space and Earth exploration. Defining a generic architecture of system of systems that have standardized interfaces makes it possible to combine and reuse elements for various applications
+[cubesat-lora-comms](https://github.com/Kaneki08/cubesat-lora-comms) - LoRa communications framework for CubeSats
+
+[cubesat-groundstation](https://github.com/miksrv/cubesat-groundstation) - Ground station software for CubeSat communications
+
+## Satellites
+
+[FossaSat-1](https://github.com/Bambofy/FossaSat-1) - Hardware designs and software for the FossaSat-1 Pocketqube satellite
+
+[librecube](https://librecube.org/) - Open source space and Earth exploration framework defining generic system architecture with standardized interfaces
 
 [Arduino-Satellite](https://github.com/MKme/Arduino-Satellite) - DIY Satellite project (Cubesat)
 
-[nano flight softwae](https://github.com/TJREVERB/pfs) - a nanosat
+[nano flight software](https://github.com/TJREVERB/pfs) - A nanosat flight software system
 
 [NANO-SAT-01](https://github.com/louis-e/NANO-SAT-01) - A satellite model based on an Arduino
 
@@ -47,40 +53,56 @@ Software for satellites
 
 [WatSat](https://github.com/ManrajT/WatSat) - Code for the Waterloo Satellite Team
 
-[RedditSat](https://github.com/gitter-badger/RedditSat) - An open-source pocketqube arduino powered satellite being developed by various users.
+[RedditSat](https://github.com/gitter-badger/RedditSat) - An open-source pocketqube arduino powered satellite being developed by various users
 
-[Satellogic/canopus](https://github.com/satellogic/canopus) - flight computer software for CubeBug cubesat
+[Satellogic/canopus](https://github.com/satellogic/canopus) - Flight computer software for CubeBug cubesat
 
-[UWCubeSat](https://github.com/UWCubeSat) - cubesat parts list and software
+[UWCubeSat](https://github.com/UWCubeSat) - Cubesat parts list and software
 
 [upsat](https://upsat.gr/) - Open source satellite software and hardware
 
-##Other
+[CubeSat-adcs-simulation](https://github.com/SSS-4/CubeSat-adcs-simulation) - ADCS (Attitude Determination and Control System) simulation for CubeSats
 
-[MeshNetwork](https://github.com/nasa/meshNetwork) - data network 
+[cubesat-mekf](https://github.com/GuiST4/cubesat-mekf) - Multiplicative Extended Kalman Filter for CubeSat attitude estimation
 
-[SatelliteApplicationsCatapult](https://github.com/orgs/SatelliteApplicationsCatapult) - software 
+[OSKI-Software](https://github.com/Andrew-Ji10/OSKI-Software) - CubeSat software framework
 
-[SatelliteSimulators](https://github.com/SatelliteSimulators) - simulation software
+[Intelligent-Atmospheric-Monitoring-via-CubeSat2](https://github.com/25leen/Intelligent-Atmospheric-Monitoring-via-CubeSat2) - AI-driven atmospheric monitoring using CubeSats
 
-[Spacelab](https://github.com/spacelab-ufsc) - brazil institute
+[CubeSat-Fault-Injection-and-Recovery](https://github.com/sandy-455/CubeSat-Fault-Injection-and-Recovery) - Fault injection and recovery testing for CubeSats
 
-[Satsim](https://github.com/tlrobinson/satsim) -simulation sofware
+[ASTRIA-Autonomous-Collision-Avoidance](https://github.com/fDg21G/ASTRIA-Autonomous-Collision-Avoidance) - Autonomous collision avoidance system for satellites
 
-[fleet space](https://github.com/fleetspace) - control room sofware
+[cubesat-obc](https://github.com/Orion-Embed/cubesat-obc) - CubeSat onboard computer software
 
-[kaan Sat](https://github.com/Kaan-Sat) - simulation sofware
+## Other
 
-[openmctweb](https://github.com/nasa/openmctweb) - mission control software
+[MeshNetwork](https://github.com/nasa/meshNetwork) - Mesh data network software
+
+[SatelliteApplicationsCatapult](https://github.com/orgs/SatelliteApplicationsCatapult) - Satellite applications and tools
+
+[SatelliteSimulators](https://github.com/SatelliteSimulators) - Simulation software for satellites
+
+[Spacelab](https://github.com/spacelab-ufsc) - Brazilian space institute projects
+
+[Satsim](https://github.com/tlrobinson/satsim) - Satellite simulation software
+
+[Fleetspace](https://github.com/fleetspace) - Control room software for satellite operations
+
+[Kaan Sat](https://github.com/Kaan-Sat) - Simulation software for satellite systems
+
+[openmctweb](https://github.com/nasa/openmctweb) - Mission control software
 
 [Satmad](https://github.com/egemenimre) - Satellite Mission Analysis and Design
 
-[space physics](https://github.com/space-physics) - various software
+[space physics](https://github.com/space-physics) - Various space physics software
 
-[Open Space Toolkit](https://github.com/open-space-collective/open-space-toolkit) - Collection of versatile software libraries for space engineering applications (e.g., environment modeling, orbit and access computation)
+[Open Space Toolkit](https://github.com/open-space-collective/open-space-toolkit) - Collection of versatile software libraries for space engineering applications including environment modeling and orbit determination
 
-[Stabilistion](https://github.com/Walid-khaled/Stabilization-of-Artificial-Satellite) - Stabilization of Artificial Satellite
+[Stabilization](https://github.com/Walid-khaled/Stabilization-of-Artificial-Satellite) - Stabilization of Artificial Satellite control systems
 
-[Scheduler](https://github.com/andreanardin/OGNSS_scheduler) - timing of processes
+[Scheduler](https://github.com/andreanardin/OGNSS_scheduler) - Timing and scheduling software for satellite operations
 
-[MORE](https://github.com/orbitalindex/awesome-space)
+[MAVERIC_GSS](https://github.com/totesirfan/MAVERIC_GSS) - Ground station software for satellite communications
+
+[MORE](https://github.com/orbitalindex/awesome-space) - More awesome space projects
